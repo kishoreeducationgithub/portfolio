@@ -53,6 +53,9 @@ export default function App() {
             <div className="text-[10px] text-slate-600 font-mono">
               DESIGN SPECIFICATION v4.2 | TAILWIND CSS | REACT JS
             </div>
+            <div className="text-[10px] text-slate-600 font-mono">
+              DESIGN SPECIFICATION v4.2 | TAILWIND CSS | REACT JS
+            </div>
           </div>
           <div className="flex gap-8">
             <a href="#" className="text-slate-400 hover:text-accent transition-all text-[10px] font-black uppercase tracking-widest hover:-translate-y-1">Twitter</a>
@@ -65,3 +68,4 @@ export default function App() {
   );
 }
 
+VN
